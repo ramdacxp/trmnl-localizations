@@ -142,7 +142,7 @@ de:
       add_to_playlist: Zu Wiedergabeliste hinzufügen
       create_first_playlist_cta: Erste Erweiterung __verbinden__ um eine Wiedergabeliste zu starten!
     playlist: # partial (single item)
-      delete: Soll diese Wiedergabeliste wirklich entfernt werden? Die Erweiterung bleibt weiterhin verbunden, wird lediglich nicht auf dem Gerät angezeigt.
+      delete: Soll dieser Eintrag wirklich entfernt werden? Die Erweiterung bleibt weiterhin verbunden, wird lediglich nicht auf dem Gerät angezeigt.
       displayed_now: Wird angezeigt
       not_displayed_yet: Wird nicht angezeigt
       remove_from_playlist: Von Wiedergabeliste entfernen
